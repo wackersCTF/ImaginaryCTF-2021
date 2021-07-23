@@ -4,6 +4,8 @@ Roo's cousin was on vacation, but he forgot to tell us where he went! But he pos
 https://imaginaryctf.org/r/EA9D-image.jpg
 
 ## Solution
-Zooming in, there is you can see that the city is South Lake Tahoe in California. Searhing for SugarPine Bakery gets you here.
+Zooming in, there is you can see that the city is South Lake Tahoe in California. Searhing for SugarPine Bakery gets you around here:
+
+https://www.google.com/maps/@38.9471735,-119.9612012,3a,75y,100.95h,78.7t/data=!3m6!1e1!3m4!1sFM16GZNsoYBXA_5uJEmWjg!2e0!7i16384!8i8192
 
 flag: ```ictf{38.947_-119.961}```
