@@ -5,7 +5,7 @@ Puzzler7's evil twin was lurking around somewhere. In our Discord server there i
 
 Note: DO NOT stalk/OSINT puzzler7#7657. This will not help you solve this challenge, and will only lead you away from the right solution.
 
-## Solution
+## Solution (by xenonminer)
 Searching for puzzler7's evil twin on discord leads us to the user unpuzzler7 who sounds like an evil twin. Looking at their linked accounts, we can see their github and youtube. If we look at unpuzzler7's github, we see a single repository with a somewhat cryptic readme.
 
 <img src="https://user-images.githubusercontent.com/86171033/126882443-b0f9ce3c-980c-42cb-a7de-e7ab2a96b0de.png" alt="github repo image" width=600/>
