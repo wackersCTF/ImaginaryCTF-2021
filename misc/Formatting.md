@@ -18,7 +18,7 @@ Looking through the website we see ```{people_obj.__init__.__globals__[CONFIG][K
 
 We change this to match our case and we have our payload: ```{a.__init__.__globals__[flag]}```
 
-Input this payload intoi the netcat server provided and we get our flag!
+Input this payload into the netcat server provided and we get our flag!
 
 flag: ```ictf{c4r3rul_w1th_f0rmat_str1ngs_4a2bd219}```
 
