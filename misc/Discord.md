@@ -7,7 +7,7 @@ Attachments:
 https://discord.gg/ctf
 
 ## Solution 
-Join the discord, go to #genral channel, read the description of #genral channel, and get the flag.
+Join the discord, go to #general channel, read the description of #general channel, and get the flag.
 
 flag: ```ictf{d41ly_ch4lls_0n_d1sc0rd_AND_4_ctf?_epic}```
 
